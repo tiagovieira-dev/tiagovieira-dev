@@ -1,8 +1,8 @@
 # Olá, eu sou o Tiago Vieira 👋
 
-💻 Desenvolvedor Web em formação  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🌎 Brasil  
+💻 Desenvolvedor Web e Analista de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas / Engenharia de Software
+🌎 Santa Catarina - Brasil  
 
 Atualmente estou focado em desenvolver projetos práticos para aprimorar minhas habilidades em desenvolvimento web e programação.
 
