@@ -1,8 +1,10 @@
 # Olá, eu sou o Tiago Vieira 👋
 
-💻 Desenvolvedor Web e Analista de Sistemas  
+💻 Desenvolvedor Web e Analista de Sistemas
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas / Engenharia de Software
-🌎 Santa Catarina - Brasil  
+
+🌎 Santa Catarina - Brasil
 
 Tenho interesse em desenvolvimento de software e tecnologia. Estou constantemente aprendendo novas ferramentas e construindo projetos para evoluir minhas habilidades como desenvolvedor.
 
@@ -52,7 +54,9 @@ Meu objetivo é desenvolver experiência sólida em desenvolvimento de software 
 
 # 📫 Contato
 
-GitHub: https://github.com/tiagovieira-dev
+- Portifólio: tiagovieira-dev.com.br
+- LinkedIn: https://www.linkedin.com/in/tiago-vieira-0540531aa/?locale=pt
+- E-mail: tiagoseinfert@gmail.com
 
 ---
 
