@@ -17,6 +17,9 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e focando n
 - CSS
 - JavaScript
 - Git e GitHub
+- PHP
+- C++
+- Python
 
 ## Objetivo
 
