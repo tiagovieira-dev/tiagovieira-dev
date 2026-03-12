@@ -42,20 +42,6 @@ Tenho interesse em desenvolvimento de software e tecnologia. Estou constantement
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagovieira-dev&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovieira-dev&layout=compact)
-
----
-
-# 🔥 Sequência de contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tiagovieira-dev)
-
----
-
 # 🎯 Objetivo
 
 Meu objetivo é desenvolver experiência sólida em desenvolvimento de software através de projetos práticos, aprendizado contínuo e aplicação de tecnologia em soluções reais.
