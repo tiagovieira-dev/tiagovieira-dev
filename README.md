@@ -1,30 +1,45 @@
-# Tiago Vieira
+# Olá, eu sou o Tiago Vieira 👋
 
-Olá! Meu nome é **Tiago Vieira** e este repositório faz parte do meu processo de aprendizado e desenvolvimento na área de tecnologia.
+💻 Desenvolvedor Web em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🌎 Brasil  
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e focando na construção de projetos práticos para desenvolver minhas habilidades em desenvolvimento web e programação.
+Atualmente estou focado em desenvolver projetos práticos para aprimorar minhas habilidades em desenvolvimento web e programação.
 
-## Sobre mim
+---
 
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Desenvolvedor web em formação
-- Interesse em tecnologia, desenvolvimento de software e soluções digitais
-- Buscando evoluir constantemente através de projetos práticos
+## 🚀 Tecnologias em aprendizado
 
-## Tecnologias em estudo
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
-- PHP
-- C++
-- Python
+---
 
-## Objetivo
+## 📚 Atualmente estudando
 
-Este repositório tem como objetivo armazenar projetos, estudos e experimentos relacionados ao desenvolvimento de software, contribuindo para minha evolução profissional na área de tecnologia.
+- Desenvolvimento Web
+- Estruturação de projetos
+- Boas práticas de programação
+- Controle de versão com Git
 
-## Autor
+---
 
-**Tiago Vieira**
+## 📈 Estatísticas do GitHub
+
+![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagovieira-dev&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovieira-dev&layout=compact)
+
+---
+
+## 🎯 Objetivo
+
+Construir experiência sólida em desenvolvimento de software através de projetos reais, aprendizado contínuo e aplicação prática de tecnologia.
+
+---
+
+## 📫 Contato
+
+GitHub: https://github.com/tiagovieira-dev
