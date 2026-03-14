@@ -56,4 +56,4 @@ Meu objetivo é desenvolver experiência sólida em desenvolvimento de software 
 
 ---
 
-⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos.
+⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos!
