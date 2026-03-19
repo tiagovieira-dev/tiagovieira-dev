@@ -50,7 +50,7 @@ Meu objetivo é desenvolver experiência sólida em desenvolvimento de software 
 
 # 📫 Contato
 
-- Portifólio: https://www.tiagovieira-dev.com.br
+- Portifólio: https://www.tiagovieira.dev.br
 - LinkedIn: https://www.linkedin.com/in/tiago-vieira-0540531aa/?locale=pt
 - E-mail: tiagoseinfert@gmail.com
 
